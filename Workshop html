@@ -1,0 +1,118 @@
+<html>
+<head>
+	<title>Workshops</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<script src="https://kit.fontawesome.com/6f827ae72b.js" crossorigin="anonymous"></script>
+	<link href="https://fonts.googleapis.com/css?family=Sen&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css_for_mfc2.css">
+</head>
+<body>
+	<div class="container pt-3">	
+		<div class="jumbo">
+			<div class="row">
+				<div class="col-lg-2 col-sm-2 col-xs-4">	
+					<div class="thumbnail pl-4">
+						<img src="vit.png" width="100%" class="rounded" >
+					</div>
+				</div>
+				<div>
+					<h1>Mozilla Firefox Club</h1>
+					<hr>
+					<h4>We Make IT Happen.Pushing Limits</h4>
+				</div>
+				<div class="col-lg-2 col-sm-2 col-xs-4">	
+					<div class="thumbnail pl-4">
+						<img src="mfc.png" width="100%" height="100%" class="rounded" >
+					</div>
+				</div>
+			</div>
+		</div>
+		<p></p>
+		<p></p>
+		<nav class="navbar navbar-expand-sm navbar-dark bg-dark rounded">
+			<div class="container">
+				<a class="navbar-brand" href="mfc2.html"><i class="fab fa-firefox-browser"></i> MFC-VIT</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		    		<span class="navbar-toggler-icon"></span>
+		  		</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		    		<ul class="navbar-nav mr-auto">
+		    			<li class="nav-item">
+		        			<a class="nav-link" href="about_us.html">About Us <i class="far fa-address-card"></i><span class="sr-only">(current)</span></a>
+		      			</li>
+		      			<li class="nav-item">
+		      				<a class="nav-link" href="projects.html">Projects <i class="fas fa-tasks"></i><span class="sr-only">(current)</span></a>
+		      			</li>
+		      			<li class="nav-item active">
+		        			<a class="nav-link" href="workshops.html">Workshops <i class="fas fa-briefcase"></i><span class="sr-only">(current)</span></a>
+		      			</li>
+		      			<li class="nav-item">
+		      				<a class="nav-link" href="contact_us.html">Contact Us <i class="fas fa-phone"></i>	<span class="sr-only">(current)</span></a>
+		      			</li>
+		    		</ul>
+		  		</div>
+		  	</div>
+		</nav>
+		<div class="container pad text-center">
+			<div class="row detail">
+				<div class="py-3 px-3 col-lg-3 col-md-4 col-sm-6">
+					<div class="card">
+						<img class="card-img-top" src="et.jpg" alt="" height="163">
+						<div class="card-body">
+							<h5 class="card-title display-5	date">Ethical Hacking</h5>
+							<p class="card-text display-6">Ethical hacking and ethical hacker are terms used to describe hacking performed by a company or individual to help identify potential threats on a computer or network.</p>
+							<h6 class="card-text display-6">Date will be released soon!!</h6>
+						</div>
+					</div>
+				</div>
+				<div class="py-3 px-3 col-lg-3 col-md-4 col-sm-6">
+					<div class="card">
+						<img class="card-img-top" src="cs.jpg" alt="" height="163">
+						<div class="card-body">
+							<h5 class="card-title display-5	date">Cyber Security</h5>
+							<p class="card-text display-6">Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks.</p>
+							<h6 class="card-text display-6">Date will be released soon!!</h6>
+						</div>
+					</div>
+				</div>
+				<div class="py-3 px-3 col-lg-3 col-md-4 col-sm-6">
+					<div class="card">
+						<img class="card-img-top" src="wd.jpg" alt="" height="163">
+						<div class="card-body">
+							<h5 class="card-title display-5	date">Web Dev</h5>
+							<p class="card-text display-6">Web development is the coding to make a website look good and the functionality using HTML, CSS and JavaScript</p>
+							<h6 class="card-text display-6">Date will be released soon!!</h6>
+						</div>
+					</div>
+				</div>
+				<div class="py-3 px-3 col-lg-3 col-md-4 col-sm-6">
+					<div class="card">
+						<img class="card-img-top" src="ad.jpg" alt="" height="163">
+						<div class="card-body">
+							<h5 class="card-title display-5	date">Android App Dev</h5>
+							<p class="card-text display-6">Mobile app development is the act or process by which a mobile app is developed for mobile devices using Java</p>
+							<h6 class="card-text display-6">Date will be released soon!!</h6>
+						</div>
+					</div>
+				</div>
+				<div class="py-3 px-3 col-lg-3 col-md-4 col-sm-6">
+					<div class="card">
+						<img class="card-img-top" src="ip.jpg" alt="" height="163">
+						<div class="card-body">
+							<h5 class="card-title display-5	date">Image Processing</h5>
+							<p class="card-text display-6">Image processing is a method to detect the image in front of the camera. It is used to make home more secure. We will be going through Python</p>
+							<h6 class="card-text display-6">Date will be released soon!!</h6>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p id="jum2">
+			Copyright <img src="copy.png" width="25"> 2020 | Mozilla Firefox Club VIT 
+		</p>
+	</div>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>
